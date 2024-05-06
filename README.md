@@ -1,0 +1,7 @@
+As an aspiring data analyst, I’m fortunate to have access to the tools necessary for performing meaningful analysis. Yet, these tools are only valuable when actively used. I delved into my creative thoughts, eager to employ these tools in a way that was both fun and personally fulfilling✌️. Therefore, rather than presenting this article as a definitive guide on best practices in NLP, I invite you to view it as a personal narrative of my own explorations and the approaches I employed in my project. This is a glimpse into my journey, not a blueprint for others to follow.
+
+Well, one of the things that’s deeply personal to me is the conversations I have with people, and the digital counterpart to this is WhatsApp (and iMessage, but that’s another story). I was thrilled to discover I could download my WhatsApp chats. Of course, I had consent — well, from just one person, actually. But let’s be clear: I wasn’t plotting any grand heists via WhatsApp. Still, to keep things light, I swapped real names for fictional ones. So, no lawsuits, please!
+
+In this article, I’ll guide you through a little pet project of mine where I downloaded my WhatsApp chats and conducted some basic analysis. Along the way, I’ll highlight the mistakes I made and share the thought process behind each analysis. For those interested in diving deeper, I’ve included a GitHub link to the complete code at the end of this article, along with key code snippets where relevant.
+
+Read further: https://medium.com/@tahakzed.de/what-my-whatsapp-chats-revealed-a-data-driven-journey-ca8bf5269cb9

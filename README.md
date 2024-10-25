@@ -1,1 +1,1 @@
-
+I'm thrilled to share a personal project: analyzing my WhatsApp data to uncover communication patterns. I've documented the entire process in a new Medium article where I break down what I learned from thousands of messages—like who initiates most chats and how sentiments shift between weekdays and weekends.
